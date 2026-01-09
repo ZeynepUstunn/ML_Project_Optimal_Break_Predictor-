@@ -5,6 +5,13 @@ Bu çalışma, sosyal medya kullanım alışkanlıklarının bireysel üretkenli
 ## 📝 Proje Hakkında
 Bu proje, verimliliğin sadece rastgele bir sonuç değil, kontrol edilebilir değişkenlere bağlı bir disiplin olduğunu kanıtlamayı amaçlar. Veri seti üzerinden uyku süresi, çalışma saati ve sosyal medya kullanımı gibi parametreler incelenerek, "Üretken" sınıfına girmek için gerekli olan mola düzeni modellenmiştir.
 
+## 👥 Proje Ekibi
+Bu proje, veri analizi ve makine öğrenmesi süreçlerinin uçtan uca uygulanması amacıyla aşağıdaki ekip tarafından geliştirilmiştir:
+
+Zeynep Üstün
+Merve Çankaya
+Uğur Özkan
+
 ## 🛠️ Kullanılan Teknolojiler
 * **Dil:** Python 3.x
 * **Kütüphaneler:**
