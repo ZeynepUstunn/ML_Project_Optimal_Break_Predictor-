@@ -2,12 +2,8 @@
 
 Bu çalışma, sosyal medya kullanım alışkanlıklarının bireysel üretkenlik üzerindeki etkilerini analiz eden ve veri bilimi yöntemleriyle ideal mola sayısını tahmin eden bir **Makine Öğrenmesi** projesidir.
 
----
-
 ## 📝 Proje Hakkında
 Bu proje, verimliliğin sadece rastgele bir sonuç değil, kontrol edilebilir değişkenlere bağlı bir disiplin olduğunu kanıtlamayı amaçlar. Veri seti üzerinden uyku süresi, çalışma saati ve sosyal medya kullanımı gibi parametreler incelenerek, "Üretken" sınıfına girmek için gerekli olan mola düzeni modellenmiştir.
-
----
 
 ## 🛠️ Kullanılan Teknolojiler
 * **Dil:** Python 3.x
@@ -15,8 +11,6 @@ Bu proje, verimliliğin sadece rastgele bir sonuç değil, kontrol edilebilir de
     * `Pandas` & `NumPy` (Veri Manipülasyonu)
     * `Matplotlib` & `Seaborn` (Veri Görselleştirme)
     * `Scikit-Learn` (Makine Öğrenmesi)
-
----
 
 ## 🧠 Makine Öğrenmesi Yaklaşımı
 Projede en doğru tahmini yapabilmek için dört farklı sınıflandırma algoritması karşılaştırılmıştır:
@@ -32,18 +26,13 @@ Projede en doğru tahmini yapabilmek için dört farklı sınıflandırma algori
 * **Hiperparametre Ayarı:** `GridSearchCV` ile modellerin en iyi çalışan versiyonları seçildi.
 * **Değerlendirme:** Modeller `Confusion Matrix` ve `Classification Report` (Precision, Recall, F1-Score) ile test edildi.
 
----
 
 ## 📁 Dosya Yapısı
 * `Project/ML_Project_Code.ipynb`: Veri ön işlemeden modelleme aşamasına kadar tüm kodlar.
 * `social_media_vs_productivity.csv`: Analizde kullanılan veri seti.
 
----
-
 ## 📌 Temel Çıkarım (VİZYON)
 > *"Bu yolculuk bize mola sayısının bir formülün sonucu değil, üretken insanlar tarafından bilinçli olarak uygulanan bir **disiplin** olduğunu gösterdi. Bu nedenle projemiz, kullanıcıya sadece geleceğini tahmin etmeyi değil, **nasıl daha başarılı olabileceğine dair bir hedef** sunmayı amaçlamaktadır."*
-
----
 
 ## 🚀 Kurulum ve Kullanım
 1. Bu depoyu klonlayın.
